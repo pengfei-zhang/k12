@@ -3,7 +3,8 @@ title = "Minimo"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
-theme = "minimo"
+# theme = "minimo"
+theme = "张鹏飞"
 
 disqusShortname = ""
 googleAnalytics = ""
